@@ -78,6 +78,7 @@
             <option value="SEO">SEO</option>
             <option value="Business Analyst">Business Analyst</option>
             <option value="UI UX">UI UX</option>
+            <option value="DevOps">DevOps</option>
         </select>
         @error('department')
         <p style="color: red;">{{ $message }}</p>
